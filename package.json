@@ -1,0 +1,23 @@
+{
+  "name": "demo_package_repo",
+  "version": "1.0.0",
+  "description": "A simple repo for a demo. updated locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybkeshav/Demo_package_repo.git"
+  },
+  "keywords": [
+    "Hello",
+    "Greeter"
+  ],
+  "author": "Keshav mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybkeshav/Demo_package_repo/issues"
+  },
+  "homepage": "https://github.com/cybkeshav/Demo_package_repo#readme"
+}
